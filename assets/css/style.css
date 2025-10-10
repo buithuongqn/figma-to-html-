@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  /* nham quy doi de su dung don vi rem  */
+  font-size: 62.6%;
+}
+
+body {
+  font-size: 1.6rem;
+}
